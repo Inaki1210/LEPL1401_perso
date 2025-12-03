@@ -1,0 +1,89 @@
+Cours 1 : Python
+
+style d'écriture :
+# --> texte ignoré par python mais lisible par nous. Utile pour garder des infos, commentaires, choix posés,...
+liste de mots réservés tel que if, while, True,.... RESERVER A UN USAGE PARTICULER
+identifiant tel que print (impression), i (variable, nommée au choix)
+    variable ??? zone de mémoire placée dans le programme permettant de garder cette valeur et de la réutiliser autre part.
+comment affecter une valeur à une variable ? i = 24 par ex
+possibilité d'exécuter thonny pas par pas. avec le symbole scarabé.µ
+
+Le programme est composé de différentes instruction, pouvant être enchâssée les unes dans les autres.
+Il peut contenir des instructions de contrôle tel que while.... if... else
+Il y a aussi des instruction de base tel que i = 5, print,....
+Il y a aussi des expressions permettant de faire des évaluations donner des valeurs ou des résultats tel que :
+	i >=0
+	i - 1
+	...
+
+4 type d'entrée vue
+entiers --> int
+réels --> float
+Text --> string
+booléen --> bool (tables de vérités)
+
+
+LES ENTIERS
+capacité illimitée !! exception de python
+on peut faire des exposants avec **
+on peut faire des multiplications *
+des divisions entières //
+des divisions réelles /
+	manque de précision et erreurs d'arrondi
+nombre réel 1.1 --> 1 et une virgule flottante 1
+
+LES VALEURS LOGIQUES (BOLEENS)
+True
+False
+and
+or
+not
+== (5 == 3 + 2) renvoie True
+!= (5 != 6) renvoie True
+>
+<
+<=
+>=
+
+
+INSTRUCTIONS CONDITIONNELLES
+avec if et else
+
+if (condition sans la parenthèse) :
+	1er bloc (faire quelque chose)
+else :
+	2ème bloc (faire autre chose)
+
+suite du code
+
+Si il n'y a rien a faire en else, il peut être retiré
+
+APPROCHE FACILITEE POUR CODER UNE CONDITIONNELLE
+
+1. définir tous les cas
+2. les ordonner
+3. if : cas True
+4. elif : plus de deux cas
+5. else : cas False
+6. La suite du code
+
+INSTRUCTION DE BOUCLE
+
+while (condition sans les parenthèses) :
+	faire quelque chose (tant qu'elle est vraie) (condition d'arrêt et corps de la boucle)
+la suite du programme (lorsque la condition est fausse)
+
+INSTRUCTION DE BOUCLE : LES ETAPES
+1. Initialiser les variables
+2. Condition d'arrêt
+	3. Corps de la boucle
+
+exemple SL33
+	1er passage : 0
+	dernier passage : 20
+	nombre total de passage : 21
+	valeur de an à la fin du programme : 21
+
+
+
+

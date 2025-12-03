@@ -1,0 +1,25 @@
+introduction à l'informatique
+
+1 semaine = 1CM et 1TP
+cours sous python (thonny)
+
+objectif :
+	programmer
+	outils de programmation
+	concepts pour savoir faire un programme (chaque semaine)
+	apprentissage a Python, utile pour LEPL1501
+
+méthode de cours :
+	apprentissage par la pratique en groupe de 2
+	A partir de problèmes concrets
+	permet d'avoir du savoir et du savoir-faire
+
+programme d'une semaine :
+	travail en binôme à remettre au tuteur pour le jeudi 14h
+	jeudi/vendredi séance tutorée
+	vendredi : CM
+
+syllabus disponible en ligne et interactif
+
+
+
