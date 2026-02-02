@@ -1,0 +1,9 @@
+Table des matières TP2
+
+- TP2_PI : Approximation de pi via boucle for
+- TP2_Q10 : Indique si un nombre est premier ou non, via modulo %
+- TP2_Q9 : Donne les n premiers termes pairs, via for i in range() et modulo
+- TP2_QBF : Nombre de diviseurs de chaque entiers entre 1 et n, double for et modulo
+- TP2_ln2 : approximation de ln2 via for et exposants
+- equation : Calcul des racines d'une équation 3 inconnues, version bourrin
+- mission2_1 : Version plus propre de equation
